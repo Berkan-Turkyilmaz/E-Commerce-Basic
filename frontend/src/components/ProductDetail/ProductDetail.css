@@ -1,0 +1,32 @@
+.detail-container {
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+width: 40%;
+padding: 40px;
+padding-top: 80px;
+display: flex;
+flex-direction: column;
+gap: 40px;
+background: whitesmoke;
+align-items: center; }
+
+.product-detail-outer {
+    display: flex;
+    justify-content: center;
+}
+.detail-1 {
+    display: flex;
+    width: 80%;
+    gap: 20px;
+}
+.detail-2 {
+    display: flex;
+    width: 80%;
+    gap: 25px;
+}
+.detail-3 {
+    display: flex;
+    width: 80%;
+    gap: 18px;
+}

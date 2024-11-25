@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; /* İsteğe bağlı, istediğiniz fontu seçebilirsiniz */
+  }
+  
+  .page-layout {
+    color: white;
+    font-size: 20px; /* text-xl */
+    font-weight: bold; /* font-bold */
+    background: linear-gradient(to right, #2E3192 ,#1095ca);
+    height: 150vh; /* h-screen */
+    
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px; /* pt-10 */
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px; /* gap-3 */
+  }
+  
+  .link {
+    font-weight: bold; /* font-bold */
+
+    text-decoration: none; /* link üzerindeki alt çizgiyi kaldırır */
+    color: white; /* İsteğe bağlı, link rengi */
+  }
+  
+  .add-product-button {
+    padding: 16px; /* p-4 */
+    border: 2px solid white; /* border-2 */
+    border-radius: 12px; /* rounded-xl */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mode-toggle-button {
+    padding: 16px; /* p-4 */
+    border: 2px solid white; /* border-2 */
+    border-radius: 12px; /* rounded-xl */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .outlet {
+    margin-top: 16px; 
+  }
+
+  .header-buttons {
+    display: flex;
+    gap: 12px; 
+  }
