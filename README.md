@@ -1,4 +1,4 @@
-🛒 Einfache E-Commerce-Website
+**🛒 Einfache E-Commerce-Website**
 
 Tech-Stack: MERN (MongoDB, Express.js, React, Node.js)
 
@@ -28,7 +28,7 @@ Eine benutzerfreundliche E-Commerce-Plattform, um Produkte effizient zu verwalte
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛒 Simple E-Commerce Website
+**🛒 Simple E-Commerce Website**
 
 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
 
